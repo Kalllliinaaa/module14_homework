@@ -1,0 +1,23 @@
+#input1,
+#input2{
+    width:  50px;
+    height: 15px;
+    margin-bottom: 24px;
+}
+
+#submitButton{
+    color: white;
+    background-color: blue;
+    width: 85px;
+    height: 25px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#submitButton:hover{
+    width: 95px;
+    height: 35px;
+    font-size: 18px;
+}

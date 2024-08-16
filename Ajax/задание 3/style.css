@@ -1,0 +1,27 @@
+.headText{
+    color:rgb(19, 19, 255);
+    font-size: 36px;
+}
+
+#userInput{
+    width:  145px;
+    height: 15px;
+    margin-bottom: 24px;
+}
+
+#submitId{
+    color: white;
+    background-color: blue;
+    width: 85px;
+    height: 25px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#submitId:hover{
+    width: 95px;
+    height: 35px;
+    font-size: 18px;
+}
